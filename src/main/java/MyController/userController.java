@@ -1,6 +1,6 @@
-package com.Glab30953.myController;
+package com.GLab30953.myControllers;
 
-import com.Glab30953.model.User;
+import com.GLab30953.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

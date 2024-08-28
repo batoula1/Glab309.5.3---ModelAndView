@@ -1,4 +1,4 @@
-package com.Glab30953.myController;
+package com.GLab30953.myController;
 
 import com.Glab30953.model.User;
 import org.springframework.stereotype.Controller;
